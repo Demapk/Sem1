@@ -1,0 +1,29 @@
+
+/* Start:/local/templates/rarus_am/components/bitrix/menu/mainpage/style.css?14392794181*/
+
+
+/* End */
+
+/* Start:/local/templates/rarus_am/components/bitrix/news.list/photo/style.css?1439279418108*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+/* Start:/local/templates/rarus_am/components/bitrix/news.list/main_reviews/style.css?1439279418108*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
